@@ -17,4 +17,4 @@ Aprender buenas prácticas y pensar como un arquitecto de software.
 
 ## ¿Cómo me veo en 10 años?
 
-En 10 años me veo como un desarrollador de sfotware senior trabajando como freelancer o en una gran compañía.
+En 10 años me veo como un desarrollador de software senior trabajando como freelancer o en una gran compañía.
