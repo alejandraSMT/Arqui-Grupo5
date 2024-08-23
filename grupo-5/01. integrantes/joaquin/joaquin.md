@@ -24,5 +24,4 @@ En 10 años, mi objetivo es trabajar en la industria del desarrollo de videonjue
 
 [Regresar al índice](../../proyecto.md)
 
-## Nombre y carrera
 
